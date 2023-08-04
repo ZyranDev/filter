@@ -1,8 +1,8 @@
 package _struct
 
 import (
-	"filter/entry"
-	"filter/errors"
+	"go.zyran.dev/filter/entry"
+	"go.zyran.dev/filter/errors"
 	"reflect"
 	"strings"
 )

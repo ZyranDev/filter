@@ -2,8 +2,8 @@ package tests
 
 import (
 	"encoding/json"
-	"filter"
-	"filter/entry"
+	"go.zyran.dev/filter"
+	"go.zyran.dev/filter/entry"
 	"testing"
 )
 

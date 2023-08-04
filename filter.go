@@ -2,7 +2,7 @@ package filter
 
 import (
 	"errors"
-	"filter/entry"
+	"go.zyran.dev/filter/entry"
 )
 
 var (
